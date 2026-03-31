@@ -39,7 +39,7 @@ export const projects: Project[] = [
     id: '3',
     title: 'Torque Sphere',
     platform: 'YOOtheme / WordPress',
-    summary: 'E-commerce platform for industrial motor controllers, featuring custom layouts and optimised product for technical audiences.',
+    summary: 'E-commerce platform for industrial motor controllers, featuring custom layouts and optimised products for technical audiences.',
     image: '/../site-ts.png?auto=compress&cs=tinysrgb&w=1200',
     overview: 'A visually striking e-commerce platform leveraging YOOtheme Pro\'s layout builder with custom CSS and JavaScript enhancements for a premium shopping experience.',
     role: 'UI Designer / Frontend Developer',

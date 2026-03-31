@@ -34,7 +34,7 @@ export default function About() {
               <p>
                 I help bring websites to life through simple design,
                 clean code, and reliable deployment. Whether it's styling a custom theme,
-                troubleshooting a complex system, or collaborating with you and/or smal team,
+                troubleshooting a complex system, or collaborating with you and/or small team,
                 I focus on delivering solutions that work for both users and your audiences.
               </p>
               <p>

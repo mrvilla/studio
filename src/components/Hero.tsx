@@ -17,8 +17,8 @@ export default function Hero({ onViewProjects, onGetInTouch }: HeroProps) {
           Developer & UI Designer
           </h2>
           <p className="text-xl md:text-2xl text-gray-600 mb-8 font-light">
-              Building and Designing thoughtful digital experiences across<br className="hidden md:block" />
-            WordPress, Full Site Editing, Joomla, and YOOtheme.
+              Building and Designing thoughtful digital experiences across <br className="hidden md:block" />
+            WordPress, FSE (Full Site Editing), Joomla, and YOOtheme.
           </p>
           <p className="text-lg text-gray-500 mb-12 max-w-2xl mx-auto leading-relaxed">
             From concept to deployment, I focus on creating digital experiences that work seamlessly for users and clients alike.
