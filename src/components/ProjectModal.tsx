@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { X } from 'lucide-react';
+import { Link2Icon, X } from 'lucide-react';
 import { Project } from '../types/project';
 
 interface ProjectModalProps {
@@ -60,9 +60,11 @@ export default function ProjectModal({ project, onClose }: ProjectModalProps) {
             {project.platform}
           </div>
 
-          <h2 className="text-4xl md:text-5xl font-light text-gray-900 mb-6">
-            {project.title}
-          </h2>
+          <a className="flex hover:underline" href={project.link} title={project.title}>
+            <h2 className="text-4xl md:text-5xl font-light text-gray-900 mb-6 flex">
+              {project.title}<Link2Icon className="ml-4 mt-1 -rotate-45" size={40} />
+            </h2>
+          </a>
 
           <div className="space-y-8">
             <div>

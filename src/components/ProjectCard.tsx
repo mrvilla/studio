@@ -24,7 +24,7 @@ export default function ProjectCard({ project, onClick }: ProjectCardProps) {
           {project.platform}
         </div>
         <h3 className="text-2xl font-light text-gray-900 mb-2 group-hover:text-gray-600 transition-colors">
-          {project.title}
+          {project.title} 
         </h3>
         <p className="text-gray-600 mb-4 leading-relaxed">
           {project.summary}

@@ -4,6 +4,7 @@ export const projects: Project[] = [
   {
     id: '1',
     title: 'Tall Poppies',
+    link: 'https://tall-poppies.com/',
     platform: 'WordPress / Full Site Editing',
     summary: 'Podcast platform focused on storytelling and editorial content, with ongoing support for content updates, structure, and site performance',
     image: '/../site-tp.png?auto=compress&cs=tinysrgb&w=1200',
@@ -21,6 +22,7 @@ export const projects: Project[] = [
   {
     id: '2',
     title: 'Backery Raddatz',
+    link: 'https://baeckerei-raddatz.de/',
     platform: 'Joomla / YOOtheme',
     summary: 'Multi-location backery website with structured content and product presenation, store information, and light e-commerce functionality.',
     image: '/../site-br.png?auto=compress&cs=tinysrgb&w=1200',
@@ -38,6 +40,7 @@ export const projects: Project[] = [
   {
     id: '3',
     title: 'Torque Sphere',
+    link: 'https://torque-sphere.com/',
     platform: 'YOOtheme / WordPress',
     summary: 'E-commerce platform for industrial motor controllers, featuring custom layouts and optimised products for technical audiences.',
     image: '/../site-ts.png?auto=compress&cs=tinysrgb&w=1200',
